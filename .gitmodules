@@ -1,0 +1,12 @@
+[submodule "calculo-numerico-interpolacao-sistema-linear"]
+	path = calculo-numerico-interpolacao-sistema-linear
+	url = https://github.com/christianfds/calculo-numerico-interpolacao-sistema-linear
+[submodule "calculo-numerico-interpolacao-newton"]
+	path = calculo-numerico-interpolacao-newton
+	url = https://github.com/christianfds/calculo-numerico-interpolacao-newton
+[submodule "calculo-numerico-interpolacao-lagrange"]
+	path = calculo-numerico-interpolacao-lagrange
+	url = https://github.com/christianfds/calculo-numerico-interpolacao-lagrange
+[submodule "calculo-numerico-newton-modificado"]
+	path = calculo-numerico-newton-modificado
+	url = https://github.com/christianfds/calculo-numerico-newton-modificado
